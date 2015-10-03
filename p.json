@@ -1,0 +1,1650 @@
+[
+    {
+        "start": "2027-05-03T04:00:00.000Z",
+        "end": "2027-05-04T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Gael Force Day!!",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-10-20T15:00:00.000Z",
+        "end": "2015-10-20T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "NC Special Olympics",
+        "description": "",
+        "location": "DHS"
+    },
+    {
+        "start": "2015-10-17T04:00:00.000Z",
+        "end": "2015-10-18T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Dougherty Valley High School VEX Robotics Tournament",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-10-13T15:00:00.000Z",
+        "end": "2015-10-13T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "NC Special Olympics",
+        "description": "",
+        "location": "DHS"
+    },
+    {
+        "start": "2015-10-02T20:00:00.000Z",
+        "end": "2015-10-02T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Meeting with DV",
+        "description": "",
+        "location": "Dougherty Valley High School\n10550 Albion Rd, San Ramon, CA  94582-2901, United States"
+    },
+    {
+        "start": "2015-09-29T22:30:00.000Z",
+        "end": "2015-09-30T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Tshirt Cannon Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-29T22:30:00.000Z",
+        "end": "2015-09-30T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Pancake Robot Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-28T22:45:00.000Z",
+        "end": "2015-09-28T23:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-26T01:00:00.000Z",
+        "end": "2015-09-26T02:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Parent & Student Info Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-25T22:30:00.000Z",
+        "end": "2015-09-25T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Pancake Robot Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-22T22:30:00.000Z",
+        "end": "2015-09-22T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-22T22:30:00.000Z",
+        "end": "2015-09-22T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Pancake Robot Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-18T22:30:00.000Z",
+        "end": "2015-09-18T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Pancake Robot Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-16T15:45:00.000Z",
+        "end": "2015-09-16T16:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Club Faire",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-15T22:30:00.000Z",
+        "end": "2015-09-15T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-15T22:30:00.000Z",
+        "end": "2015-09-16T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Pancake Robot Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-09-15T22:30:00.000Z",
+        "end": "2015-09-16T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "T-Shirt Cannon Meeting ",
+        "description": "",
+        "location": "P5"
+    },
+    {
+        "start": "2015-09-11T22:30:00.000Z",
+        "end": "2015-09-12T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-11T19:30:00.000Z",
+        "end": "2015-09-11T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "T-Shirt Cannon Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-10T22:30:00.000Z",
+        "end": "2015-09-11T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-10T01:00:00.000Z",
+        "end": "2015-09-10T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-08T22:45:00.000Z",
+        "end": "2015-09-08T23:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Meeting",
+        "description": "",
+        "location": "Room P-5"
+    },
+    {
+        "start": "2015-09-01T16:00:00.000Z",
+        "end": "2015-09-01T16:40:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Lunch Meeting",
+        "description": "",
+        "location": "K201"
+    },
+    {
+        "start": "2015-08-17T22:00:00.000Z",
+        "end": "2015-08-18T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "Panera Fallon"
+    },
+    {
+        "start": "2015-06-14T00:00:00.000Z",
+        "end": "2015-06-14T02:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Parent Meeting",
+        "description": "",
+        "location": "Engineering Room"
+    },
+    {
+        "start": "2015-06-13T21:00:00.000Z",
+        "end": "2015-06-14T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Parts Division",
+        "description": "",
+        "location": "P5"
+    },
+    {
+        "start": "2015-06-09T20:00:00.000Z",
+        "end": "2015-06-09T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-06-02T22:00:00.000Z",
+        "end": "2015-06-03T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-06-01T19:00:00.000Z",
+        "end": "2015-06-01T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Aspirator Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-29T22:00:00.000Z",
+        "end": "2015-05-29T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "pancake robot meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-29T22:00:00.000Z",
+        "end": "2015-05-30T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Aspirator Meeting",
+        "description": "",
+        "location": "P5"
+    },
+    {
+        "start": "2015-05-28T04:00:00.000Z",
+        "end": "2015-05-29T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "pancake robot meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-21T22:00:00.000Z",
+        "end": "2015-05-21T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Leaders Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-19T22:00:00.000Z",
+        "end": "2015-05-20T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Decision Day",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-04T22:00:00.000Z",
+        "end": "2015-05-05T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Cleanup Continuation",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-01T22:00:00.000Z",
+        "end": "2015-05-02T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Club Cleanup Day",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-04-25T20:00:00.000Z",
+        "end": "2015-04-25T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "K201"
+    },
+    {
+        "start": "2015-03-24T16:30:00.000Z",
+        "end": "2015-03-24T17:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Lunch Meeting",
+        "description": "",
+        "location": "K201"
+    },
+    {
+        "start": "2015-03-24T01:00:00.000Z",
+        "end": "2015-03-24T02:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Parent Meeting #1",
+        "description": "",
+        "location": "K201"
+    },
+    {
+        "start": "2015-03-21T16:00:00.000Z",
+        "end": "2015-03-21T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Head Royce Scrimmage",
+        "description": "",
+        "location": "Oakland\nCA, United States"
+    },
+    {
+        "start": "2015-03-07T15:00:00.000Z",
+        "end": "2015-03-08T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "NorCal State Championships",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-07T01:00:00.000Z",
+        "end": "2015-03-07T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "NorCal State Championships",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-05T23:00:00.000Z",
+        "end": "2015-03-06T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Decision Day",
+        "description": "",
+        "location": "K201"
+    },
+    {
+        "start": "2015-03-01T21:00:00.000Z",
+        "end": "2015-03-02T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Pre-States Scrimmage",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-01T19:00:00.000Z",
+        "end": "2015-03-01T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-02-28T16:00:00.000Z",
+        "end": "2015-03-01T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Head Royce Skills Challenge",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-02-22T21:00:00.000Z",
+        "end": "2015-02-23T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Bellarmine Skills Challenge",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-02-06T23:00:00.000Z",
+        "end": "2015-02-07T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Leadership Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-01-31T05:00:00.000Z",
+        "end": "2015-02-01T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Tracy VEX Competition",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-01-23T20:30:00.000Z",
+        "end": "2015-01-23T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Day",
+        "description": "",
+        "location": "K201 "
+    },
+    {
+        "start": "2015-01-11T18:00:00.000Z",
+        "end": "2015-01-11T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Autodesk Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-12-13T22:00:00.000Z",
+        "end": "2014-12-14T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Programming Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-12-06T05:00:00.000Z",
+        "end": "2014-12-07T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Modesto Robotics Competition",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-11-21T05:00:00.000Z",
+        "end": "2014-11-23T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Bellarine Robotics Competition",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-11-15T21:00:00.000Z",
+        "end": "2014-11-16T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scrimmage",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-11-04T17:30:00.000Z",
+        "end": "2014-11-04T18:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Lunch Meeting",
+        "description": "",
+        "location": "K201"
+    },
+    {
+        "start": "2014-10-28T16:15:00.000Z",
+        "end": "2014-10-28T17:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Lunch Meeting",
+        "description": "",
+        "location": "P5"
+    },
+    {
+        "start": "2014-10-25T04:00:00.000Z",
+        "end": "2014-10-26T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Dougherty Valley Robotics Competition",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-09-25T22:00:00.000Z",
+        "end": "2014-09-25T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "J Collaboration Upstairs"
+    },
+    {
+        "start": "2014-08-23T16:30:00.000Z",
+        "end": "2014-08-23T17:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "Google Chat"
+    },
+    {
+        "start": "2014-08-06T02:30:00.000Z",
+        "end": "2014-08-06T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "Google Chat"
+    },
+    {
+        "start": "2014-06-10T19:30:00.000Z",
+        "end": "2014-06-11T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Club Clean Up/Parts Distribution Day",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-06-06T01:00:00.000Z",
+        "end": "2014-06-06T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Make up Parent Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-06-04T00:30:00.000Z",
+        "end": "2014-06-04T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "City Council Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-06-02T22:00:00.000Z",
+        "end": "2014-06-03T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-05-30T22:00:00.000Z",
+        "end": "2014-05-31T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Returning Members Interviews",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-05-28T01:00:00.000Z",
+        "end": "2014-05-28T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Make up Parent Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-05-24T01:00:00.000Z",
+        "end": "2014-05-24T03:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Parent Night",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-05-23T22:00:00.000Z",
+        "end": "2014-05-24T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "White Tile Robot Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-05-19T19:00:00.000Z",
+        "end": "2014-05-19T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "White Tile Robot Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-05-16T22:00:00.000Z",
+        "end": "2014-05-17T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Day",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-05-14T23:30:00.000Z",
+        "end": "2014-05-15T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "TBD"
+    },
+    {
+        "start": "2014-05-13T22:00:00.000Z",
+        "end": "2014-05-13T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Wagon Team Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-05-09T23:30:00.000Z",
+        "end": "2014-05-10T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": "Panera"
+    },
+    {
+        "start": "2014-05-05T04:00:00.000Z",
+        "end": "2014-05-06T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Committee Lunch Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-04-23T04:00:00.000Z",
+        "end": "2014-04-27T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX World Championships ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-28T00:30:00.000Z",
+        "end": "2014-03-28T03:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Green Science Fair ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-27T01:00:00.000Z",
+        "end": "2014-03-27T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Parent Night ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-25T04:00:00.000Z",
+        "end": "2014-03-26T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officer Voting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-25T04:00:00.000Z",
+        "end": "2014-03-26T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officer Speeches ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-22T18:00:00.000Z",
+        "end": "2014-03-22T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Alameda Science Festival Demonstration",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-18T04:00:00.000Z",
+        "end": "2014-03-19T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Captains' Speeches ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-16T04:00:00.000Z",
+        "end": "2014-03-17T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "California State Championship",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-15T04:00:00.000Z",
+        "end": "2014-03-16T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "California State Championship",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-14T04:00:00.000Z",
+        "end": "2014-03-15T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "California State Championship ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-04T05:00:00.000Z",
+        "end": "2014-03-05T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officer Nominations ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-17T23:00:00.000Z",
+        "end": "2014-02-18T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-15T20:30:00.000Z",
+        "end": "2014-02-15T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-15T18:00:00.000Z",
+        "end": "2014-02-15T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scouting Database Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-14T22:45:00.000Z",
+        "end": "2014-02-15T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-12T22:45:00.000Z",
+        "end": "2014-02-13T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-11T22:45:00.000Z",
+        "end": "2014-02-12T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-02-08T05:00:00.000Z",
+        "end": "2014-02-09T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Tracy VEX Tournament",
+        "description": "",
+        "location": "1775 W Lowell Ave Tracy CA 95376"
+    },
+    {
+        "start": "2014-02-01T18:00:00.000Z",
+        "end": "2014-02-01T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-01-27T23:00:00.000Z",
+        "end": "2014-01-28T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-01-25T18:00:00.000Z",
+        "end": "2014-01-25T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-01-18T18:30:00.000Z",
+        "end": "2014-01-18T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project I",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-01-06T20:00:00.000Z",
+        "end": "2014-01-06T20:42:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Committee Meeting",
+        "description": "",
+        "location": "Math Hallway"
+    },
+    {
+        "start": "2013-12-12T23:00:00.000Z",
+        "end": "2013-12-13T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-12-07T05:00:00.000Z",
+        "end": "2013-12-08T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Modesto VEX Tournament",
+        "description": "",
+        "location": "2200 Blue Gum Modesto CA 95350"
+    },
+    {
+        "start": "2013-11-23T05:00:00.000Z",
+        "end": "2013-11-24T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Bellarmine VEX Tournament",
+        "description": "",
+        "location": "960 W Hedding St San Jose CA 95126"
+    },
+    {
+        "start": "2013-11-20T22:00:00.000Z",
+        "end": "2013-11-20T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scouting Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-11-20T01:00:00.000Z",
+        "end": "2013-11-20T02:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "Project I Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-11-09T18:00:00.000Z",
+        "end": "2013-11-09T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Autodesk Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-11-04T20:00:00.000Z",
+        "end": "2013-11-04T20:42:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project Committee Meeting",
+        "description": "",
+        "location": "J-204"
+    },
+    {
+        "start": "2013-10-26T16:00:00.000Z",
+        "end": "2013-10-26T23:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "BASF CSUEB",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-10-19T04:00:00.000Z",
+        "end": "2013-10-20T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Dougherty Valley VEX Tournament",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-10-13T04:30:00.000Z",
+        "end": "2013-10-13T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Awards Delivery Robot Team Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-10-11T22:00:00.000Z",
+        "end": "2013-10-12T02:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Homecoming Carnival",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-10-10T14:30:00.000Z",
+        "end": "2013-10-10T15:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Homecoming Carnival Wristband Distribution",
+        "description": "",
+        "location": "In front of Little Theater"
+    },
+    {
+        "start": "2013-10-09T19:10:00.000Z",
+        "end": "2013-10-09T19:42:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Battery Box Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-09T00:30:00.000Z",
+        "end": "2013-10-09T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Project H Meeting",
+        "description": "",
+        "location": "5-6"
+    },
+    {
+        "start": "2013-10-06T17:00:00.000Z",
+        "end": "2013-10-06T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Awards Robot Team Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-05T00:30:00.000Z",
+        "end": "2013-10-05T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Make-Up Parent Meeting",
+        "description": "Note: This is a mandatory meeting. If you were not able to make it last Friday, be sure to come today.",
+        "location": "K-201"
+    },
+    {
+        "start": "2013-10-04T22:00:00.000Z",
+        "end": "2013-10-04T22:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Homecoming Carnival Meeting ",
+        "description": "",
+        "location": "Student Union"
+    },
+    {
+        "start": "2013-09-28T17:00:00.000Z",
+        "end": "2013-09-28T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "RobotC Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-09-28T02:00:00.000Z",
+        "end": "2013-09-28T03:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "Parents Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-09-14T23:00:00.000Z",
+        "end": "2013-09-15T07:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Release Meeting",
+        "description": "",
+        "location": "Zoie's House"
+    },
+    {
+        "start": "2013-09-13T22:00:00.000Z",
+        "end": "2013-09-14T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Design Process & Notebook Seminar",
+        "description": "",
+        "location": "K-201"
+    },
+    {
+        "start": "2013-09-10T16:00:00.000Z",
+        "end": "2013-09-10T16:40:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Club Lunch Meeting",
+        "description": "",
+        "location": "J-202"
+    },
+    {
+        "start": "2013-09-08T04:00:00.000Z",
+        "end": "2013-09-08T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-09-02T00:00:00.000Z",
+        "end": "2013-09-02T23:59:59.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-09-01T04:00:00.000Z",
+        "end": "2013-09-01T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-27T15:00:00.000Z",
+        "end": "2013-08-27T17:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-08-26T00:00:00.000Z",
+        "end": "2013-08-26T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "End of Summer Party",
+        "description": "",
+        "location": "Alamo Creek Park & Sweet Tomatoes"
+    },
+    {
+        "start": "2013-08-24T17:00:00.000Z",
+        "end": "2013-08-24T19:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-08-20T04:00:00.000Z",
+        "end": "2013-08-20T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-13T21:00:00.000Z",
+        "end": "2013-08-13T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-11T04:00:00.000Z",
+        "end": "2013-08-11T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-04T04:00:00.000Z",
+        "end": "2013-08-04T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-28T04:00:00.000Z",
+        "end": "2013-07-28T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-21T04:00:00.000Z",
+        "end": "2013-07-21T06:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting #4",
+        "description": "Contact Project Manager, Kana (mishrakana@gmail.com), for questions or further details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-13T04:00:00.000Z",
+        "end": "2013-07-13T05:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting #3",
+        "description": "Contact Project Manager Kana with questions.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-06T04:00:00.000Z",
+        "end": "2013-07-06T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-06-29T23:00:00.000Z",
+        "end": "2013-06-30T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-06-29T04:00:00.000Z",
+        "end": "2013-06-29T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Website Redesign Virtual Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-06-06T22:00:00.000Z",
+        "end": "2013-06-07T00:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "Parts Split",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-06-05T22:00:00.000Z",
+        "end": "2013-06-06T00:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "Inventory",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-06-04T22:00:00.000Z",
+        "end": "2013-06-05T00:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "Robot Disassembly Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-05-29T22:00:00.000Z",
+        "end": "2013-05-29T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Room Packing",
+        "description": "Furniture moving",
+        "location": "J210"
+    },
+    {
+        "start": "2013-05-29T00:00:00.000Z",
+        "end": "2013-05-29T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "School Board Meeting",
+        "description": "Wear your robotics shirts!",
+        "location": ""
+    },
+    {
+        "start": "2013-05-24T22:00:00.000Z",
+        "end": "2013-05-25T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": "Panera Bread (meet at school)"
+    },
+    {
+        "start": "2013-05-23T22:00:00.000Z",
+        "end": "2013-05-23T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Room Packing",
+        "description": "Packing up the rest of the room ",
+        "location": "J210"
+    },
+    {
+        "start": "2013-05-22T22:00:00.000Z",
+        "end": "2013-05-22T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Room Packing",
+        "description": "Transferring materials from the cabinets ",
+        "location": "J210"
+    },
+    {
+        "start": "2013-05-21T22:00:00.000Z",
+        "end": "2013-05-21T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Room Packing",
+        "description": "Emptying cabinets",
+        "location": ""
+    },
+    {
+        "start": "2013-05-19T17:00:00.000Z",
+        "end": "2013-05-20T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Maker Faire ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-05-18T22:00:00.000Z",
+        "end": "2013-05-19T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "New Game Day ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-05-18T01:00:00.000Z",
+        "end": "2013-05-18T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "New Member Parent Night (tentative time) ",
+        "description": "",
+        "location": "Dublin High School (J210)"
+    },
+    {
+        "start": "2013-05-17T23:30:00.000Z",
+        "end": "2013-05-18T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-05-16T22:00:00.000Z",
+        "end": "2013-05-16T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Middle School Recruiting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-20T04:00:00.000Z",
+        "end": "2013-04-21T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX World Championship",
+        "description": "For more information, visit http://www.robotevents.com/2013-vex-robotics-high-school-world-championship.html",
+        "location": "800 W. Katella Avenue, Anaheim, CA 92802"
+    },
+    {
+        "start": "2013-04-19T04:00:00.000Z",
+        "end": "2013-04-20T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX World Championship",
+        "description": "For more information, visit http://www.robotevents.com/2013-vex-robotics-high-school-world-championship.html",
+        "location": "800 W. Katella Avenue, Anaheim, CA 92802"
+    },
+    {
+        "start": "2013-04-18T04:00:00.000Z",
+        "end": "2013-04-19T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX World Championship",
+        "description": "For more information, visit http://www.robotevents.com/2013-vex-robotics-high-school-world-championship.html",
+        "location": "800 W. Katella Avenue, Anaheim, CA 92802"
+    },
+    {
+        "start": "2013-04-17T04:00:00.000Z",
+        "end": "2013-04-18T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX World Championship",
+        "description": "For more information, visit http://www.robotevents.com/2013-vex-robotics-high-school-world-championship.html",
+        "location": "800 W. Katella Avenue, Anaheim, CA 92802"
+    },
+    {
+        "start": "2013-04-15T22:00:00.000Z",
+        "end": "2013-04-16T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Packing ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-15T04:00:00.000Z",
+        "end": "2013-04-16T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Division Lists released",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-14T20:30:00.000Z",
+        "end": "2013-04-15T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scrimmage ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-14T17:00:00.000Z",
+        "end": "2013-04-14T18:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Posterboard Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-13T23:00:00.000Z",
+        "end": "2013-04-14T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Parents Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-13T22:00:00.000Z",
+        "end": "2013-04-13T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Parent Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-13T20:00:00.000Z",
+        "end": "2013-04-13T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Room Packing and Cleaning",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-13T19:00:00.000Z",
+        "end": "2013-04-13T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": "Panera"
+    },
+    {
+        "start": "2013-04-13T01:00:00.000Z",
+        "end": "2013-04-13T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": " Battery Box Meeting",
+        "description": "",
+        "location": "Someone's house"
+    },
+    {
+        "start": "2013-04-11T22:00:00.000Z",
+        "end": "2013-04-12T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Battery Box Meeting",
+        "description": "",
+        "location": "Josh's House (pending)"
+    },
+    {
+        "start": "2013-04-11T19:00:00.000Z",
+        "end": "2013-04-11T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-10T19:00:00.000Z",
+        "end": "2013-04-10T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-04-06T21:00:00.000Z",
+        "end": "2013-04-07T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scrimmage ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-29T22:00:00.000Z",
+        "end": "2013-03-30T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-29T00:00:00.000Z",
+        "end": "2013-03-29T03:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Green Science Fair ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-28T19:00:00.000Z",
+        "end": "2013-03-28T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Lunchtime Demo ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-28T02:30:00.000Z",
+        "end": "2013-03-28T03:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "YAC Presentation",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-27T04:00:00.000Z",
+        "end": "2013-03-28T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "New Officer Voting",
+        "description": "Mrs. Chou will send all members an email Tuesday night with instructions and the ballot. You must turn in your club contract and fee for the 2013-2014 school year to vote.",
+        "location": "Online"
+    },
+    {
+        "start": "2013-03-24T22:00:00.000Z",
+        "end": "2013-03-25T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "BaseBot Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-23T02:00:00.000Z",
+        "end": "2013-03-23T03:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Parent Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-16T13:30:00.000Z",
+        "end": "2013-03-17T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX California State Championship",
+        "description": "For more information, visit http://www.robotevents.com/robot-competitions/vex-robotics-competition/california-state-championship.html",
+        "location": "4701 Great America Pkwy, Santa Clara, CA 95054"
+    },
+    {
+        "start": "2013-03-15T20:00:00.000Z",
+        "end": "2013-03-16T03:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX California State Championship",
+        "description": "For more information, visit http://www.robotevents.com/robot-competitions/vex-robotics-competition/california-state-championship.html",
+        "location": "4701 Great America Pkwy, Santa Clara, CA 95054"
+    },
+    {
+        "start": "2013-03-07T00:00:00.000Z",
+        "end": "2013-03-07T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Student Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-06T20:00:00.000Z",
+        "end": "2013-03-06T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-03-02T14:30:00.000Z",
+        "end": "2013-03-03T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Tracy VEX Competition",
+        "description": "For more information, visit http://www.robotevents.com/tracy-norcal-vex-sack-attack-tournament.html",
+        "location": "1775 W Lowell Ave, Tracy, CA 95376"
+    },
+    {
+        "start": "2013-02-16T02:00:00.000Z",
+        "end": "2013-02-16T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-04T23:00:00.000Z",
+        "end": "2013-02-05T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Room Clean-up ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-02T14:15:00.000Z",
+        "end": "2013-02-03T03:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Northgate VEX Competition",
+        "description": "For more information, visit http://www.robotevents.com/robot-competitions/vex-robotics-competition/annual-east-bay-vex-robotics-tournament-1.html",
+        "location": "425 Castle Rock Rd, Walnut Creek, CA 94598"
+    },
+    {
+        "start": "2013-02-02T01:00:00.000Z",
+        "end": "2013-02-02T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Transport Field to Northgate",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-01T05:00:00.000Z",
+        "end": "2013-02-02T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officer Applications Due",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-30T20:07:00.000Z",
+        "end": "2013-01-30T20:42:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Robotics Club Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-27T21:00:00.000Z",
+        "end": "2013-01-28T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scrimmage",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-26T04:00:00.000Z",
+        "end": "2013-01-26T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Worlds Parent Meeting",
+        "description": "",
+        "location": "Robotics Room (J210)"
+    },
+    {
+        "start": "2013-01-25T20:30:00.000Z",
+        "end": "2013-01-25T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Interested Officer Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-25T05:00:00.000Z",
+        "end": "2013-01-26T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX Online Challenge Voting Ends",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-21T17:00:00.000Z",
+        "end": "2013-01-21T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Officers' Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-19T14:00:00.000Z",
+        "end": "2013-01-20T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Ceres VEX Competition",
+        "description": "For more information, visit http://www.robotevents.com/central-valley-vex-robotics-tournament.html",
+        "location": "4033 S. Central Ave, Ceres, CA 95307"
+    },
+    {
+        "start": "2013-01-14T23:00:00.000Z",
+        "end": "2013-01-15T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scouting Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-12T18:30:00.000Z",
+        "end": "2013-01-12T19:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scouting Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-11T05:00:00.000Z",
+        "end": "2013-01-12T05:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "VEX Online Challenge Deadline",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-12-22T00:30:00.000Z",
+        "end": "2012-12-22T07:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "End of the World/Holiday Party",
+        "description": "Bring your board games for a party celebrating, among other things, our recent successes as a club and the upcoming end of the world!",
+        "location": "Ellie Mae, Inc. 4155 Hopyard Road, Suite 200 Pleasanton, CA 94588"
+    },
+    {
+        "start": "2012-12-21T20:30:00.000Z",
+        "end": "2012-12-21T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Adept Technology Field Trip",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-12-19T23:00:00.000Z",
+        "end": "2012-12-20T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Adept Research meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-12-08T16:00:00.000Z",
+        "end": "2012-12-09T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Modesto VEX Tournament",
+        "description": "For more information, visit http://www.robotevents.com/robot-competitions/vex-robotics-competition/central-valley-shack-attack-tornament-2.html",
+        "location": "2200 Blue Gum, Modesto, CA 95350"
+    },
+    {
+        "start": "2012-12-01T21:00:00.000Z",
+        "end": "2012-12-01T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Scrimmage",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-11-18T16:30:00.000Z",
+        "end": "2012-11-18T23:30:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "FLL Competition",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-11-17T15:00:00.000Z",
+        "end": "2012-11-18T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Bellarmine VEX Competition",
+        "description": "For more information, visit http://www.robotevents.com/bellarmine-bay-area-vex-robotics-tournament.html",
+        "location": "960 W Hedding St, San Jose, CA 95126"
+    },
+    {
+        "start": "2012-10-27T14:00:00.000Z",
+        "end": "2012-10-27T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "DVHS Competition",
+        "description": "For more information, visit http://www.robotevents.com/dougherty-valley-high-school-vex-robotics-tournament.html",
+        "location": "10550 Albion Road, San Ramon, CA 94582"
+    },
+    {
+        "start": "2012-10-12T22:00:00.000Z",
+        "end": "2012-10-13T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Homecoming Carnival",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-10-06T18:00:00.000Z",
+        "end": "2012-10-07T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Programming Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-09-14T22:00:00.000Z",
+        "end": "2012-09-15T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Design Process & Notebook Seminar",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2012-09-04T16:07:00.000Z",
+        "end": "2012-09-04T16:42:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Robotics Club Meeting",
+        "description": "",
+        "location": ""
+    }
+]

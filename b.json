@@ -1,0 +1,1402 @@
+[
+    {
+        "start": "2015-09-08T19:30:00.000Z",
+        "end": "2015-09-08T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Team Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-09-04T22:30:00.000Z",
+        "end": "2015-09-05T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Team Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-07-31T04:00:00.000Z",
+        "end": "2015-08-01T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Finish Decision Matrix",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-07-24T04:00:00.000Z",
+        "end": "2015-07-25T04:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-05-01T22:00:00.000Z",
+        "end": "2015-05-02T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-04-06T19:00:00.000Z",
+        "end": "2015-04-06T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-29T20:30:00.000Z",
+        "end": "2015-03-29T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Jeffrey's House"
+    },
+    {
+        "start": "2015-03-23T19:00:00.000Z",
+        "end": "2015-03-23T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-16T19:00:00.000Z",
+        "end": "2015-03-16T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-13T22:00:00.000Z",
+        "end": "2015-03-14T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-11T22:00:00.000Z",
+        "end": "2015-03-12T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-10T22:00:00.000Z",
+        "end": "2015-03-11T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-03-02T20:00:00.000Z",
+        "end": "2015-03-02T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-03-02T20:00:00.000Z",
+        "end": "2015-03-02T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-02-21T18:30:00.000Z",
+        "end": "2015-02-22T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-02-16T19:00:00.000Z",
+        "end": "2015-02-16T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2015-02-15T22:00:00.000Z",
+        "end": "2015-02-16T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2015-02-14T21:00:00.000Z",
+        "end": "2015-02-15T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2015-02-02T20:00:00.000Z",
+        "end": "2015-02-02T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-01-26T20:00:00.000Z",
+        "end": "2015-01-26T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-01-12T20:00:00.000Z",
+        "end": "2015-01-12T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2015-01-06T20:00:00.000Z",
+        "end": "2015-01-06T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2015-01-04T21:00:00.000Z",
+        "end": "2015-01-05T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2015-01-03T21:00:00.000Z",
+        "end": "2015-01-04T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2015-01-02T23:00:00.000Z",
+        "end": "2015-01-03T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2014-12-28T23:30:00.000Z",
+        "end": "2014-12-29T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2014-12-16T20:00:00.000Z",
+        "end": "2014-12-16T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-12-12T23:00:00.000Z",
+        "end": "2014-12-13T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-12-09T23:00:00.000Z",
+        "end": "2014-12-10T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-12-04T20:00:00.000Z",
+        "end": "2014-12-04T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-12-01T20:00:00.000Z",
+        "end": "2014-12-01T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-11-03T20:00:00.000Z",
+        "end": "2014-11-03T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-31T22:00:00.000Z",
+        "end": "2014-11-01T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-28T22:00:00.000Z",
+        "end": "2014-10-29T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-23T22:00:00.000Z",
+        "end": "2014-10-24T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting ",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-20T22:00:00.000Z",
+        "end": "2014-10-21T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-18T18:30:00.000Z",
+        "end": "2014-10-18T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-16T22:00:00.000Z",
+        "end": "2014-10-17T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-13T22:00:00.000Z",
+        "end": "2014-10-14T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-10-09T22:00:00.000Z",
+        "end": "2014-10-10T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-10-06T22:00:00.000Z",
+        "end": "2014-10-07T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-09-18T19:09:00.000Z",
+        "end": "2014-09-18T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-09-12T22:09:00.000Z",
+        "end": "2014-09-13T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting ",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-09-10T22:09:00.000Z",
+        "end": "2014-09-11T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-09-09T22:09:00.000Z",
+        "end": "2014-09-10T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-09-05T22:15:00.000Z",
+        "end": "2014-09-06T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-08-19T21:00:00.000Z",
+        "end": "2014-08-20T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2014-08-09T20:00:00.000Z",
+        "end": "2014-08-10T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2014-06-28T18:00:00.000Z",
+        "end": "2014-06-28T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2014-06-27T18:00:00.000Z",
+        "end": "2014-06-27T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Connor ( fireinthearcade16@gmail.com ) for the house address or additional details.",
+        "location": "Connor's House"
+    },
+    {
+        "start": "2014-04-14T19:00:00.000Z",
+        "end": "2014-04-14T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-04-08T19:00:00.000Z",
+        "end": "2014-04-08T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-28T19:30:00.000Z",
+        "end": "2014-03-28T20:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-03-24T19:00:00.000Z",
+        "end": "2014-03-24T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-03-19T22:00:00.000Z",
+        "end": "2014-03-20T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2014-03-10T19:00:00.000Z",
+        "end": "2014-03-10T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-03-08T21:00:00.000Z",
+        "end": "2014-03-09T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-03-04T20:00:00.000Z",
+        "end": "2014-03-04T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-24T20:00:00.000Z",
+        "end": "2014-02-24T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-18T20:00:00.000Z",
+        "end": "2014-02-18T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-15T20:30:00.000Z",
+        "end": "2014-02-15T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-14T23:00:00.000Z",
+        "end": "2014-02-15T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-12T23:00:00.000Z",
+        "end": "2014-02-13T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-11T23:00:00.000Z",
+        "end": "2014-02-12T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-02-03T20:00:00.000Z",
+        "end": "2014-02-03T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-31T23:00:00.000Z",
+        "end": "2014-02-01T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-30T23:00:00.000Z",
+        "end": "2014-01-31T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-29T23:00:00.000Z",
+        "end": "2014-01-30T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-28T23:00:00.000Z",
+        "end": "2014-01-29T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-24T20:30:00.000Z",
+        "end": "2014-01-24T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-17T23:00:00.000Z",
+        "end": "2014-01-18T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-15T23:00:00.000Z",
+        "end": "2014-01-16T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-14T23:00:00.000Z",
+        "end": "2014-01-15T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-10T23:00:00.000Z",
+        "end": "2014-01-11T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-07T23:00:00.000Z",
+        "end": "2014-01-08T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-06T23:00:00.000Z",
+        "end": "2014-01-07T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2014-01-04T21:00:00.000Z",
+        "end": "2014-01-04T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2014-01-03T21:00:00.000Z",
+        "end": "2014-01-04T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-12-17T23:00:00.000Z",
+        "end": "2013-12-18T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-12-16T23:00:00.000Z",
+        "end": "2013-12-17T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-12-13T23:00:00.000Z",
+        "end": "2013-12-14T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-12-10T23:00:00.000Z",
+        "end": "2013-12-11T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-12-02T20:00:00.000Z",
+        "end": "2013-12-02T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-30T21:00:00.000Z",
+        "end": "2013-12-01T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-11-25T19:00:00.000Z",
+        "end": "2013-11-25T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-19T20:00:00.000Z",
+        "end": "2013-11-19T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Contact Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-18T20:00:00.000Z",
+        "end": "2013-11-18T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Contact Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-17T19:00:00.000Z",
+        "end": "2013-11-17T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-11-16T18:00:00.000Z",
+        "end": "2013-11-16T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-15T23:00:00.000Z",
+        "end": "2013-11-16T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-13T23:00:00.000Z",
+        "end": "2013-11-14T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-12T23:00:00.000Z",
+        "end": "2013-11-13T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-11T22:00:00.000Z",
+        "end": "2013-11-12T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-11-05T20:00:00.000Z",
+        "end": "2013-11-05T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Contact Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for more details.",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-28T19:00:00.000Z",
+        "end": "2013-10-28T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-25T22:00:00.000Z",
+        "end": "2013-10-26T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-21T22:00:00.000Z",
+        "end": "2013-10-22T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-15T19:00:00.000Z",
+        "end": "2013-10-15T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-14T19:00:00.000Z",
+        "end": "2013-10-14T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-13T21:00:00.000Z",
+        "end": "2013-10-13T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "TBD"
+    },
+    {
+        "start": "2013-10-12T18:00:00.000Z",
+        "end": "2013-10-12T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-10T22:00:00.000Z",
+        "end": "2013-10-11T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-09T22:00:00.000Z",
+        "end": "2013-10-10T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-07T22:00:00.000Z",
+        "end": "2013-10-08T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-06T21:00:00.000Z",
+        "end": "2013-10-07T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-05T19:00:00.000Z",
+        "end": "2013-10-05T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-10-02T22:00:00.000Z",
+        "end": "2013-10-03T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-09-27T19:00:00.000Z",
+        "end": "2013-09-27T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-09-24T22:00:00.000Z",
+        "end": "2013-09-25T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Worked on making other side of lift and base. Didn't get very far with lift. We're experiencing problems with the lift motors when they're trying to lift the lift up. Almost as if stalling between each turn of the gear.",
+        "location": "Robotics Room "
+    },
+    {
+        "start": "2013-09-21T20:00:00.000Z",
+        "end": "2013-09-21T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-09-20T22:00:00.000Z",
+        "end": "2013-09-21T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "J-202"
+    },
+    {
+        "start": "2013-09-17T22:00:00.000Z",
+        "end": "2013-09-18T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "J-202"
+    },
+    {
+        "start": "2013-09-10T22:00:00.000Z",
+        "end": "2013-09-11T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-09-09T19:00:00.000Z",
+        "end": "2013-09-09T19:40:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Lunch Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Robotics Room (J-202)"
+    },
+    {
+        "start": "2013-09-07T22:00:00.000Z",
+        "end": "2013-09-08T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Robotics Room (J-202)"
+    },
+    {
+        "start": "2013-09-06T22:00:00.000Z",
+        "end": "2013-09-07T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room (J-202)"
+    },
+    {
+        "start": "2013-08-31T21:00:00.000Z",
+        "end": "2013-09-01T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-08-30T22:00:00.000Z",
+        "end": "2013-08-31T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Robotics Room (J-202)"
+    },
+    {
+        "start": "2013-08-22T21:00:00.000Z",
+        "end": "2013-08-22T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-18T20:00:00.000Z",
+        "end": "2013-08-18T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-08-11T23:00:00.000Z",
+        "end": "2013-08-12T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-08-07T00:30:00.000Z",
+        "end": "2013-08-07T02:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-06T00:30:00.000Z",
+        "end": "2013-08-06T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-05T00:00:00.000Z",
+        "end": "2013-08-05T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-08-02T22:00:00.000Z",
+        "end": "2013-08-03T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "We will be deciding our final robot today! Exciting! Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-08-01T23:00:00.000Z",
+        "end": "2013-08-02T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-31T23:00:00.000Z",
+        "end": "2013-08-01T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-31T01:00:00.000Z",
+        "end": "2013-07-31T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "We'll be finishing our intake decision matrix today! Exciting! Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-29T23:00:00.000Z",
+        "end": "2013-07-30T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-28T20:00:00.000Z",
+        "end": "2013-07-28T22:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-27T23:00:00.000Z",
+        "end": "2013-07-28T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana\"s House"
+    },
+    {
+        "start": "2013-07-26T17:00:00.000Z",
+        "end": "2013-07-26T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting ",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-26T01:45:00.000Z",
+        "end": "2013-07-26T02:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-25T01:45:00.000Z",
+        "end": "2013-07-25T02:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details.",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-21T20:00:00.000Z",
+        "end": "2013-07-22T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details.",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-20T17:00:00.000Z",
+        "end": "2013-07-20T18:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Online (Google Hangout)"
+    },
+    {
+        "start": "2013-07-19T17:00:00.000Z",
+        "end": "2013-07-19T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-14T20:00:00.000Z",
+        "end": "2013-07-14T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-13T20:00:00.000Z",
+        "end": "2013-07-13T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-12T23:00:00.000Z",
+        "end": "2013-07-13T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details. ",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-07-06T17:00:00.000Z",
+        "end": "2013-07-06T22:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Remember to bring your own packed lunch! Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-07-03T20:00:00.000Z",
+        "end": "2013-07-03T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-06-30T17:00:00.000Z",
+        "end": "2013-06-30T20:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Kana's House"
+    },
+    {
+        "start": "2013-06-29T17:00:00.000Z",
+        "end": "2013-06-29T18:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Online Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for additional details. ",
+        "location": "Google Hangout"
+    },
+    {
+        "start": "2013-06-28T17:15:00.000Z",
+        "end": "2013-06-28T23:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-06-24T23:00:00.000Z",
+        "end": "2013-06-25T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Build/Research Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-06-23T19:00:00.000Z",
+        "end": "2013-06-24T00:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Navneedh House"
+    },
+    {
+        "start": "2013-06-22T21:30:00.000Z",
+        "end": "2013-06-23T01:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-06-22T00:00:00.000Z",
+        "end": "2013-06-22T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Research Meeting",
+        "description": "",
+        "location": "Navneedh's house"
+    },
+    {
+        "start": "2013-06-20T17:00:00.000Z",
+        "end": "2013-06-20T19:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Research Meeting",
+        "description": "",
+        "location": "Navneedh's house"
+    },
+    {
+        "start": "2013-06-19T20:00:00.000Z",
+        "end": "2013-06-19T23:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Research Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-06-16T22:30:00.000Z",
+        "end": "2013-06-17T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. ",
+        "location": "Navneedh's House"
+    },
+    {
+        "start": "2013-06-14T18:30:00.000Z",
+        "end": "2013-06-14T21:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "Email Kana ( mishrakana@gmail.com ) or Navneedh ( navneedh@gmail.com ) for the house address or additional details. We will be working with the actual parts and begin brainstorming! ",
+        "location": "Navneedh's house"
+    },
+    {
+        "start": "2013-05-29T23:00:00.000Z",
+        "end": "2013-05-30T00:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-05-25T19:30:00.000Z",
+        "end": "2013-05-25T21:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "We will be following up on our decision for our notebook and further introduce new members to VEX.",
+        "location": "Dublin Library"
+    },
+    {
+        "start": "2013-05-23T23:00:00.000Z",
+        "end": "2013-05-24T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "We will be discussing our notebook plans, the game, game strategies and plans for the summer",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-05-14T22:45:00.000Z",
+        "end": "2013-05-15T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B First Meeting!",
+        "description": "We'll be discussing and going over the Toss Up Manual.",
+        "location": "Robotics Room"
+    },
+    {
+        "start": "2013-02-16T23:00:00.000Z",
+        "end": "2013-02-17T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-14T23:00:00.000Z",
+        "end": "2013-02-15T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-12T23:00:00.000Z",
+        "end": "2013-02-13T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-07T23:00:00.000Z",
+        "end": "2013-02-08T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-05T23:00:00.000Z",
+        "end": "2013-02-06T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-01T23:00:00.000Z",
+        "end": "2013-02-02T02:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Team Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-02-01T20:10:00.000Z",
+        "end": "2013-02-01T20:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Team Lunch",
+        "description": "",
+        "location": "Student Union"
+    },
+    {
+        "start": "2013-01-31T23:00:00.000Z",
+        "end": "2013-02-01T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-30T23:00:00.000Z",
+        "end": "2013-01-31T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Team Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-18T23:00:00.000Z",
+        "end": "2013-01-19T03:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-18T20:10:00.000Z",
+        "end": "2013-01-18T20:45:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Team Lunch",
+        "description": "",
+        "location": "Student Union"
+    },
+    {
+        "start": "2013-01-17T23:00:00.000Z",
+        "end": "2013-01-18T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-16T23:00:00.000Z",
+        "end": "2013-01-17T00:30:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-15T23:00:00.000Z",
+        "end": "2013-01-16T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-11T23:00:00.000Z",
+        "end": "2013-01-12T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": "DHS Robotics Room J210"
+    },
+    {
+        "start": "2013-01-10T23:00:00.000Z",
+        "end": "2013-01-11T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-08T23:00:00.000Z",
+        "end": "2013-01-09T01:00:00.000Z",
+        "status": "CONFIRMED",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    },
+    {
+        "start": "2013-01-03T23:00:00.000Z",
+        "end": "2013-01-04T02:00:00.000Z",
+        "status": "TENTATIVE",
+        "summary": "5327B Meeting",
+        "description": "",
+        "location": ""
+    }
+]

@@ -1,0 +1,41 @@
+<html ng-app="CalendarApp">
+	<head>
+		<base href="/">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+
+	</head>
+	<body>
+		<div class="container" style="position:relative">
+			<div id="t" class="col-md-3">
+				<div class="collection" style="margin:0px">
+					<a href="/#/" id="p" class="collection-item active blue" style="color:#FFFFFF;font-size:2em;padding:10%">Projects</a>
+	        		<a href="/#/a" id="a" class="collection-item" style="color:#f44336;font-size:2em;padding:10%">5327A</a>
+	        		<a href="/#/b" id="b" class="collection-item" style="color:#ffc107;font-size:2em;padding:10%">5327B</a>
+	        		<a href="/#/c" id="c" class="collection-item" style="color:#4caf50;font-size:2em;padding:10%">5327C</a>
+	        		<a href="/#/d" id="d" class="collection-item" style="color:#ff9800;font-size:2em;padding:10%">5327D</a>
+	     		</div>
+     		</div>
+     		<div class="col-md-4 col-md-offset-3" style="overflow:auto;height:100%;top:0px;bottom:0px;position:absolute" ng-controller="calendarController" ng-view >
+     		</div>
+     		<div id="i" class="col-md-5 col-md-offset-4" style="position:relative">
+     			<ul class="collection" style="margin:0">
+      				<li id="h" class="collection-item blue" style="padding:2%;padding-left:4%"><h3 style="color:white">02 May</h3></li>
+					<li id="e" class="collection-item" style="overflow:hidden;height:100%">
+						<ul >
+							<li>Hello</li>
+							<li>Hello</li>
+							<li>Hello</li>
+						</ul>
+					</li>
+      			</ul>
+ 			</div>
+		</div>
+	</body>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.6/angular.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.6/angular-route.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="public.js"></script>
+	<script src="ang.js"></script>
+</html>
